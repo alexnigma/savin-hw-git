@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e5048e-f1ec-40bd-9c87-5061e5a2921f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/А.txt" beforeDir="false" afterPath="$PROJECT_DIR$/А.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/В.txt" beforeDir="false" afterPath="$PROJECT_DIR$/В.txt" afterDir="false" />
-    </list>
+    <list default="true" id="09e5048e-f1ec-40bd-9c87-5061e5a2921f" name="Changes" comment="change in a.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +42,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682373180990</updated>
-      <workItem from="1682373182045" duration="700000" />
+      <workItem from="1682373182045" duration="1053000" />
     </task>
+    <task id="LOCAL-00001" summary="change in a.txt">
+      <created>1682373906838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682373906838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change in a.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="change in a.txt" />
   </component>
 </project>
